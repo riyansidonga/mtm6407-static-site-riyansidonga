@@ -1,5 +1,8 @@
-# mtm6407-static-site-riyansidonga
+# MTM6407 Static Site Project
 
-**Name:** Riyansi Donga
-**Student Number:** 041122355
-**Static Site Generator:** 
+**Name:** Riyansi Donga  
+**Student Number:** 041122355  
+**Static Site Generator:** VitePress
+
+## Live Site
+http://localhost:5173/
