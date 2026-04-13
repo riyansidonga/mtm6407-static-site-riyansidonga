@@ -1,28 +1,39 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Riyansi's Portfolio",
-  description: "Digital Art",
+  title: "Riyanshi's Creative Corner",
+  description: "Photography • Travel • Digital Art • Personal Portfolio",
+  base: '/mtm6407-static-site-riyansidonga/',   // Important for GitHub Pages
+
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'About', link: '/about' },
+      { text: 'Gallery', link: '/gallery' },
+      { text: 'Travel', link: '/travel' },
+      { text: 'Blog', link: '/blog/' },
+      { text: 'Contact', link: '/contact' }
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/blog/': [
+        {
+          text: 'Blog Posts',
+          items: [
+            { text: 'My First Solo Trip', link: '/blog/first-trip' },
+            { text: 'Photography Tips I Learned', link: '/blog/photo-tips' }
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/riyansidonga' }
+    ],
+
+    footer: {
+      message: 'Built with VitePress for MTM6407',
+      copyright: '© 2026 Riyanshi'
+    }
   }
 })
