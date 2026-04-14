@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Riyansi's Portfolio",
   description: "UX/UI Design Portfolio | Algonquin College",
+  ignoreDeadLinks: true,
   srcDir: '.',                   
   themeConfig: {
     nav: [

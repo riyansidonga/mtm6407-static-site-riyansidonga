@@ -7,15 +7,16 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
+    "build": "vitepress build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d .vitepress/dist"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vitepress": "^1.6.4"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.8",
-    "gh-pages": "^6.3.0"
+    "bootstrap": "^5.3.8"
   }
 }
