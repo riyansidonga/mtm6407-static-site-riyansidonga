@@ -2,12 +2,14 @@
 title: Contact
 ---
 
-# Get in Touch
+# Contact Me
 
-I'd love to hear from you!
+I'd love to connect!
 
-- **Email:** your.email@example.com (replace with real one)
-- **Instagram:** @yourusername (photography account)
-- **GitHub:** [riyansidonga](https://github.com/riyansidonga)
+**Email**  
+riyansi.donga@gmail.com
 
-Feel free to message me about photography tips, travel recommendations, or collaboration ideas.
+**Location**  
+Ottawa, Ontario, Canada
+
+Feel free to reach out about junior UX/UI opportunities, EdTech/non-profit projects, or just to say hello!

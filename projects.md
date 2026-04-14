@@ -1,19 +1,17 @@
 ---
-title: Gallery
-layout: page   # Different layout → meets "at least 2 templates" requirement
+title: Projects
 ---
 
-# My Photography Gallery
+# My Projects
 
-Here are some of my favorite shots from recent travels.
+### 1. Plant Palette - Role: UX/UI Designer & Developer
+A complete responsive website for a modern plant-based restaurant. The goal was to create an inviting online experience that reflects the fresh, sustainable brand while making menu browsing and reservations effortless on both desktop and mobile.
+**Tools:** Adobe Illustrator, Figma
 
-![Mountain Lake](https://picsum.photos/id/1015/800/600)  
-*Banff National Park, Alberta – Summer 2025*
+### 2. Baited by the Odds - Campaign for OPH 
+A campaign website for Ottawa Public Health aimed at raising awareness about gambling risks among athletes and coaches. The site provides clear information, resources, and easy navigation tailored to the sports community. 
+**Tools:** Figma, Information Architecture 
 
-![City Street](https://picsum.photos/id/201/800/600)  
-*Downtown Toronto at golden hour*
-
-![Forest Path](https://picsum.photos/id/1018/800/600)  
-*Algonquin Park – Fall Colors*
-
-*(In a real project, replace these with your actual photos uploaded to `/docs/assets/images/`)*
+### 3. Peer Ride - Carpooling App
+UX/UI design for a website that helps employers provide better support for employees with dyslexia. High-contrast options, intuitive navigation, and accessible forms.  
+**Tools:** Figma,Moodboarding, Responsive Prototyping

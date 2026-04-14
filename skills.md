@@ -1,15 +1,24 @@
 ---
-title: Travel Journal
+title: Skills
 ---
 
-# Travel Journal
+# Skills
 
-I believe travel is the best teacher. Here are some of my memorable trips.
+### Design & Prototyping
+- Figma (wireframing, prototyping, user flows)
+- Adobe Illustrator (branding, posters, typography)
+- Color theory & accessible palettes
 
-### Solo Trip to Banff (2025)
-Spending 7 days alone in the Rockies was life-changing. Waking up at 5 AM to catch sunrise over Moraine Lake is something I'll never forget.
+### Development
+- HTML, CSS, JavaScript
+- React (components, state management)
+- VitePress (static sites)
+- Responsive & mobile-first design
 
-### Road Trip across Ontario
-From Ottawa to Thunder Bay — endless highways, small towns, and the most beautiful lakes.
+### UX/UI Expertise
+- Universal Design for Learning (UDL)
+- User research & personas
+- Accessibility (WCAG guidelines)
+- Inclusive & empathetic design
 
-More stories coming soon in the blog!
+I’m always eager to learn new tools and improve my craft!

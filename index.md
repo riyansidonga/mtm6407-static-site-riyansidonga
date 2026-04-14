@@ -1,27 +1,23 @@
 ---
 layout: home
+
 hero:
-  name: "Riyanshi"
-  text: "Creative Explorer"
-  tagline: "Capturing moments through photography, travel, and digital art"
+  name: Riyansi
+  text: Aspiring UX/UI Designer
+  tagline: Crafting empathetic, accessible, and joyful digital experiences for EdTech and non-profit communities.
   image:
-    src: /assets/profile.jpg   # You can add your photo later
-    alt: Riyanshi
+    src: /me-1.jpg
+    alt: image
   actions:
-    - theme: brand
-      text: View My Gallery
-      link: /gallery
+    - theme: Brand
+      text: Explore My Projects
+      link: /projects
     - theme: alt
-      text: Learn About Me
-      link: /about
+      text: Get In Touch
+      link: /contact
+
 ---
 
-## Welcome to My World
+## Welcome to My Portfolio
 
-I am a passionate photographer, traveler, and aspiring digital artist based in Ontario. This site is my personal space to share the stories behind my lens and the journeys that inspire me.
-
-### What You'll Find Here
-- High-quality photography from my travels
-- Honest travel stories and tips
-- Digital art experiments
-- My latest thoughts in the blog
+I'm a Graphic Design / UX/UI Design student at Algonquin College in Ottawa. I design intuitive, human-centered interfaces that make learning and community impact accessible to everyone.

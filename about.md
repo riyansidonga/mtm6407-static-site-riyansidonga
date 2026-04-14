@@ -4,17 +4,13 @@ title: About Me
 
 # About Me
 
-Hi, I'm Riyanshi — a creative soul who finds joy in exploring new places and freezing beautiful moments in time.
+Hi, I'm Riyansi — a passionate UX/UI and graphic design student at Algonquin College in Ottawa, Ontario.
 
-My journey into photography started in 2022 when I got my first mirrorless camera. Since then, I've traveled across Canada and parts of the US, always with my camera in hand. I love street photography, landscape shots, and experimenting with portrait editing in Lightroom and Photoshop.
+My design philosophy is built on empathy and inclusivity. I create digital experiences that follow Universal Design for Learning (UDL) principles so every user — regardless of ability or background — can learn and engage joyfully.
 
-When I'm not behind the lens, I enjoy creating digital illustrations and learning new design techniques.
+I’m especially passionate about EdTech and non-profit organizations because technology should remove barriers, not create them.
 
-### My Interests
-- Photography (Street + Landscape)
-- Solo Travel
-- Digital Art & Illustration
-- Coffee & Reading
-- Hiking and Nature
-
-Feel free to reach out if you want to collaborate or just chat about photography!
+**Education**  
+  UX/UI Design & Graphic Design Student  
+  Algonquin College, Ottawa 
+  (2025–present)
