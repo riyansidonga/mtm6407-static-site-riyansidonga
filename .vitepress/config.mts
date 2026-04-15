@@ -14,6 +14,7 @@ export default defineConfig({
       { text: 'Skills', link: '/skills' },
       { text: 'Contact', link: '/contact' }
     ],
+
     footer: {
       copyright: '© 2026 Riyansi Donga'
     }
