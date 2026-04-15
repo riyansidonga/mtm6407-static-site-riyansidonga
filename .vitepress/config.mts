@@ -1,11 +1,16 @@
+// .vitepress/config.mts
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Riyansi's Portfolio",
+  title: "Riyanshi's Portfolio",
   description: "UX/UI Design Portfolio | Algonquin College",
+
+  // This MUST match your repo name exactly (including slashes)
   base: '/mtm6407-static-site-riyansidonga/',
-  ignoreDeadLinks: true,
-  srcDir: '.',                   
+
+  srcDir: '.',
+  cleanUrls: true,
+
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -14,9 +19,8 @@ export default defineConfig({
       { text: 'Skills', link: '/skills' },
       { text: 'Contact', link: '/contact' }
     ],
-
     footer: {
-      copyright: '© 2026 Riyansi Donga'
+      copyright: '© 2026 Riyanshi • Built with VitePress for MTM6407'
     }
   }
 })
