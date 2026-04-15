@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Riyansi's Portfolio",
   description: "UX/UI Design Portfolio | Algonquin College",
+  base: '/mtm6407-static-site-riyansidonga/',
   ignoreDeadLinks: true,
   srcDir: '.',                   
   themeConfig: {
@@ -13,7 +14,6 @@ export default defineConfig({
       { text: 'Skills', link: '/skills' },
       { text: 'Contact', link: '/contact' }
     ],
-    sidebar: false,                 
     footer: {
       copyright: '© 2026 Riyansi Donga'
     }
