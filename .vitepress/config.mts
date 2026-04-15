@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Riyanshi's Portfolio",
+  title: "Riyansi's Portfolio",
   description: "UX/UI Design Portfolio | Algonquin College",
 
-  base: '/mtm6407-static-site-riyansidonga/',   // Keep this exactly as is
+  base: '/mtm6407-static-site-riyansidonga/',   // ← Keep this
 
   srcDir: '.',
   cleanUrls: true,
@@ -18,7 +18,7 @@ export default defineConfig({
       { text: 'Contact', link: '/contact' }
     ],
     footer: {
-      copyright: '© 2026 Riyanshi • Built with VitePress for MTM6407'
+      copyright: '© 2026 Riyansi • Built with VitePress for MTM6407'
     }
   }
 })
