@@ -1,12 +1,10 @@
-// .vitepress/config.mts
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Riyanshi's Portfolio",
   description: "UX/UI Design Portfolio | Algonquin College",
 
-  // This MUST match your repo name exactly (including slashes)
-  base: '/mtm6407-static-site-riyansidonga/',
+  base: '/mtm6407-static-site-riyansidonga/',   // Keep this exactly as is
 
   srcDir: '.',
   cleanUrls: true,

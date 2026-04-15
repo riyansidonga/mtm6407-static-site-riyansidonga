@@ -6,8 +6,8 @@ hero:
   text: Aspiring UX/UI Designer
   tagline: Crafting empathetic, accessible, and joyful digital experiences for EdTech and non-profit communities.
   image:
-    src: /me-1.jpg
-    alt: image
+    src: /mtm6407-static-site-riyansidonga/.vitepress/theme/assets/me-1.jpg
+    alt: Riyansi's Image
   actions:
     - theme: Brand
       text: Explore My Projects
